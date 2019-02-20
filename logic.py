@@ -15,3 +15,6 @@ def verification(answer):
         print (" :) Thanks")
 
 setup()
+
+print ("Wlamalam ci sie na konto")
+print ("Masz 15 sekund na danie mi jedzenie, bo inaczej wszytkie twoje pliki stana sie publiczne")
